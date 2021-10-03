@@ -5,13 +5,7 @@ Cambio de vida
 Obra maestra
 
 Anita tiene 41 y usa un mac, desea participar del proyecto lo antes posible
-<<<<<<< HEAD
 
 
 master 1
 master 2
-=======
-Experimento 1
-Experimento 2
-master 1
->>>>>>> experimento
